@@ -3,11 +3,11 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: serif;
 }
 
 .navbar {
-  border-bottom: 1px #e5b73b solid;
+  border-bottom: 1px #1f3b6e solid;
 }
 
 .navbar img {
@@ -99,4 +99,8 @@
 .home a:hover {
   -webkit-filter: brightness(120%);
   filter: brightness(120%);
+}
+
+.download {
+  margin: 2em 0;
 }
